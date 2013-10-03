@@ -169,24 +169,24 @@ INT. INTERROGATION ROOM - DAY
 Alan, tired and scared, sits handcuffed to a stainless steel table. Clay and Mary, relaxed on the other side of the table, ask him questions. Helen, studious in the corner of the room, watches and takes diligent notes.
 
 CLAY
-This can be so easy, Alan. Give us anything, like, perhaps mentioning that you bought the items from a Halloween catalog.
+This is so easy, Alan. We want to let you go, all you have to do is explain why you're not a terrorist.
 
 ALAN
-I'm not a terrorist.
+I know this looks bad. I looked up how to make a bomb, and how to hide a bomb under my clothes, and I even looked up average daily attendance rates of local landmarks so I could talk about that and have it seem realistic at the party-
 
 MARY
-Right. And maybe you want to tell us who threw the party. If it was, for example, a work party for your wife, and her co-workers don't think she's funny and she wanted to attempt a somewhat humorous, if off-color gag to ingratiate herself to her --
+Alan, you have to stop talking right now.
 
 ALAN
-I'm not a terrorist.
+I'm not a terrorist. I just ...
 
 CLAY
-Alan, we got it.
+... really really seem like one when you talk.
 
 MARY
-Just give us something else. Anything.
+We're going to take a minute. When we come back, you need to not sound like a terrorist.
 
-Clay gestures to Mary. They exit the room. Helen continues writing feverishly.
+Clay and Mary exit. Helen continues writing feverishly.
 
 ALAN
 (to Helen)
@@ -196,7 +196,7 @@ Helen writes "The room falls silent." on her notepad.
 
 OUTSIDE THE INTERROGATION ROOM - CONTINUOUS
 
-Mary sits at a computer terminal and browses Alan's entire online life. She  absentmindedly looks at Alan's bank account.
+Mary sits at a computer terminal and browses Alan's entire online life. She absentmindedly looks at Alan's bank account.
 Bold text is to be deleted when this is updated to indicate they're going to deliberately lead the witness.
 
 CLAY
@@ -210,30 +210,27 @@ He'll crack soon. He'll give us some legitimate excuse we can cross check and he
 Clay sips his coffee.
 
 CLAY
-I've gotta say ... there are some procedures around here that don't sit too well with me.
+I'm worried about that, I think he's too nervous to give us the right answers.
 
 MARY
-Like being required to arrest innocent people?
+Almost like he's a normal person, and not a terrorist who's been trained to stand up under interrogation.
 
 CLAY
-All he did was make some dodgy internet searches. 
+I'm not going to be the one to write "too nervous to be a terrorist" on a discharge report.
 
-Clay shows a list of the searches, which includes: Bomb costume, suicide bomber vest, fake suicide bomb, IED, ten ways to meet people at parties, ten ways to meet people at parties not for sex though, google, halloween party ideas, fantasy football login. 
-Clay hovers over the football login search term for a second.
+Clay looks at the terminal, "www.fantasyfootballinsider.com" is listed in his visited websites.
+
+CLAY (CONT'D)
+We should be able to clear him just because he plays fantasy football. No way a terrorist has time to play that.
 
 MARY
-He also wore a shitty Halloween costume.
+Think, Clay. If you can't get the suspect to say what you need ...
 
 CLAY
-Not a crime.
+... then lead them.
 
 MARY
-Sadly. Now if you're so torn up about this, get in there and help that man vindicate himself. If you can't get a suspect off, you aren't trying hard enough.
-
-Clay SNICKERS.
-
-MARY (CONT'D)
-Oh stop.
+Now let's get in there and ask some softball yes or no questions.
 
 They head back into the interrogation room.
 
@@ -246,19 +243,19 @@ MARY
 Alan. Are you ready for us to help you?
 
 ALAN
-Her writing. It's torture.
+Help me? You're holding me against my will. If anything, you're making me sympathize with-
 
 MARY
-No it isn't, trust me.
+Shh. shh. Shut your mouth.
 
 CLAY
-Look, we want to help you. Just answer our questions, do you understand?
+Look, we want to help you. Just answer our questions with either yes or no. Do you understand?
 
 ALAN
 Yes.
 
 CLAY
-Do you enjoy breaking the law, Alan?
+Good. Do you enjoy breaking the law, Alan?
 
 ALAN
 No.
@@ -268,19 +265,21 @@ Clay and Mary nod to each other.
 CLAY
 Are you currently planning any activities with explosives?
 
-Alan looks at Mary. She glares.
+Alan looks at Mary. She arches an eyebrow.
 
 ALAN
 No.
 
 MARY
-That's a relief. You're building quite a case for yourself.
+That's a relief. You're building a good case for yourself.
 
 CLAY
-Last question. Are you interested in the violent overthrow of the American government? Yes, somewhat, indifferent, not really, or definitely not?
+Last question. This one is tricky. Are you interested in the violent overthrow of the American government? Yes, somewhat, indifferent, not really, or definitely not?
 
 ALAN
 Definitely not.
+
+Mary claps sarcastically.
 
 MARY
 Alright, Alan. Good answers.
@@ -320,7 +319,7 @@ Helen finishes her sentence and puts her pencil down
 MARY (CONT'D)
 Did you just write "stop writing?"
 
-Helen nods.
+Helen checks her notebook then nods.
 
 Mary shakes her head, disappointed.
 
@@ -342,7 +341,8 @@ Helen turns around, sees nothing. Back to work. Helen TYPES away. The BUZZING SO
 Helen stops again. She swivels around in her chair. Nothing there. 
 Helen believes she might find an unauthorized spy device from a foreign country, and is momentarily excited to be a hero.
 Helen pokes around the office, seeking out the source of the sound. She checks under computer towers and behind monitors, listening for the source. Where is it coming from?
-Clay enters, coffee in tow.
+Clay enters, coffee in hand.
+Clay smiles and gives Helen an affectionate cuff on the shoulder.
 
 CLAY
 Oh. I see you got your drone. Congrats.
@@ -363,12 +363,17 @@ HELEN
 That's pretty intrusive, isn't it?
 
 CLAY
-I guess. There's cameras everywhere here anyway. Besides, they can be pretty helpful. I miss Rusty.
+I guess. There's cameras everywhere here anyway. Besides, they can be pretty helpful.
 
 Clay looks up at the Drone admiringly.
 
 CLAY (CONT'D)
-Enjoy.
+Let's get a picture of you two!
+
+Clay takes a 0.8 100-400mm lens off the nearest camera body and swaps in a 1.4 50mm lens. He snaps a few pictures of Helen and Drone.
+
+CLAY (CONT'D)
+These drones are classified, so I have to turn these pictures in to the records department. But if you put in a FOIA request now, you should get a copy of them before you retire. I've already got a scrapbook set up once I get back the Polaroids of me and Rusty from back in the day.
 
 Clay walks away, lost in reminiscence. 
 
@@ -406,10 +411,10 @@ MARY
 Oh, the usual. I'm trying online dating now. 
 
 CLAY
-On the internet?
+On the internet? Like on OKCupid?
 
 MARY
-Yes. I missed the first two dates because I worked late and the latest guy referred to me as "frigid" before entrees were served. Every guy's fantasy. They can't get enough.
+Yes, literally OKCupid. I missed the first two dates because I worked late and the latest guy referred to me as "frigid" before entrees were served. Every guy's fantasy. They can't get enough.
 
 MALE (O.S.)
 (softly, in the background)
@@ -425,7 +430,7 @@ CLAY
 Cold Turkey. Nice.
 
 MARY
-I haven't heard any great stories from you in a while. Still doing singles night at the karaoke bar?
+I haven't heard any great stories from you in a while. Still doing singles night at Untrained Melody?
 
 FEMALE (O.S.)
 (softly, in the background)
@@ -434,7 +439,7 @@ How did you end up with your clothes off?
 Clay shifts uncomfortably.
 
 CLAY
-No. I ... met someone. 
+No, I haven't been to karaoke in a while. I ... met someone. 
 
 MARY
 Spill it. It's got to be more engaging than (gesturing to headset) our accident prone friend.
@@ -482,22 +487,44 @@ She stops outside the women's restroom. The drone stops too. She turns to it, gl
 HELEN
 Do. Not.
 
-She tries to enter the restroom as quickly as possible, but nothing can compete with today's modern technology. The drone easily enters before the door slams shut.
+She enters the bathroom. The Drone remains outside.
 
 INT. BATHROOM - CONTINUOUS
 
 HELEN
-You have got to be kidding me.
+Finally, a bit of privacy.
 
-The drone ZOOMS and FOCUSES its mechanical cameras.
+JUSTIN (O.S.)
+Hey Helen, are you in the bathroom?
 
-Helen storms into a stall.
-Even drones have limits, and she is left in peace. 
+Helen freezes in place.
 
-HELEN (CONT'D)
-I win!
+JUSTIN (CONT'D)
+Because your drone's out here. And your drone can follow you everywhere except for the bathroom.
 
-More MECHANICAL SOUNDS from Drone.
+Helen looks for a way to escape. But this is an NSA secure facility, you can't escape from the bathroom.
+
+INT. BATHROOM HALLWAY - CONTINUOUS
+
+JUSTIN
+I mean, I'm not a genius, but it seems like the only reasonable explanation is that you're in the bathroom. Also, I am a genius.
+
+HELEN (O.S.)
+Go away, Justin!
+
+JUSTIN
+(to Drone)
+See you later, too bad you're stuck with the shitty intern.
+
+Drone's lenses audibly focus on Justin.
+Justin exits.
+
+Helen emerges from the bathroom, upset.
+
+HELEN
+Let's go.
+
+Helen exits. Drone yaws around to follow her.
 
 INT. CONFERENCE ROOM HALLWAY - EVENING
 
@@ -507,18 +534,24 @@ CLAY
 Brady's done. I don't care what you say.
 
 ALAN
-He just doesn't have weapons, Clay, those receivers are --
+We're talking about this now? Brady doesn't have the weapons to-
 
 MARY
 Prep him Clay. They'll eat him alive in there.
 
 CLAY
-It'll be fine, don't worry. Just don't say anything.
+It'll be fine. Just don't say anything.
 
 Alan looks worried. Mary stares at Alan.
 
 MARY
-Remember Alan, loose lips lead to indefinite detention.
+Remember Alan, don't say anything, and don't hear any classified information from Clay.
+
+ALAN
+But it's impossible for me to-
+
+MARY
+Yes, I get it. It's impossible to not hear something. Everything's unfair. Nothing's my fault.
 
 The conference room door SWINGS OPEN. JUSTIN, 24, an intern beckons them in.
 
@@ -554,47 +587,35 @@ SECTION HEAD 1 (CONT'D)
 Thank you for joining us.
 
 SECTION HEAD 2
-Let's get down to brass tacks. If you were able to determine so quickly that this man was a worthless asset, why did you haul him in in the first place?
+Let's get down to brass tacks. If you were able to determine so quickly that this man was a worthless asset, why did you capture him in the first place?
 
 CLAY
 Umm, due diligence, sir.
 
 MARY
-My colleague was being thorough. Unfortunately an innocent man is being indefinitely detained as a result of that thoroughness.
+My colleague was being thorough. Unfortunately an innocent man is now being indefinitely detained as a result of that thoroughness.
 
 SECTION HEAD 2
-What we'd like to know is how an innocent man came to be detained and how he came to possess classified information. We've seen no records of your interrogation.
+What we'd like to know is how he came to possess classified information. We've seen no records of your interrogation.
 
 Helen looks like she's about to speak. Mary and Clay glare at her. She clams up.
 
 MARY
-We're sorry about that. The reports were incomplete.
-
-SECTION HEAD 1
-We would just like to get a glimpse of your thought process.
-
-MARY
-We identified a number of red flags. Our suspicion was piqued. We later found that many of the red flags were the result of his putting together a Halloween costume. We regret that force was used to extract the suspect --
-
-SECTION HEAD 1
-The incident reports tell us that you extracted him at a Halloween party. That didn't tip you off?
-
-CLAY
-Again, umm, due diligence, sir.
+The ... reports were incomplete.
 
 SECTION HEAD 2
-We see no reason to take you out to the woodshed for this one. We've reviewed the case file and see no need to detain him. 
+Let's cut the pencil-pusher bullshit. We've reviewed your partial case file and see no need to detain him. 
 
 SECTION HEAD 1
-This was an egregious oversight on the part of your department, but since the new system was put in place, we get about a half dozen of these a month.
+Mind you, this was an egregious oversight on the part of your department, but we've been getting six of these a month with the new system.
 
 SECTION HEAD 2
-Cost of doing business in the modern world. He can go after the Miami raid's done. Should be less than a week.
+Cost of doing business. He can go after the Miami raid's done. Should be less than a week. We'll clear a path with the higher-ups.
 
 Alan relaxes.
 
 SECTION HEAD 1
-Just so long as he doesn't know about the government in Aleppo.
+After all, it's not like he knows about the puppet government in Aleppo.
 
 Everyone stares at Section Head 1. Alan knows what's coming. He buries his head in his hands.
 
@@ -761,7 +782,7 @@ MARY
 They have some pull that we don't. They can help expedite your release by going over the heads of our heads.
 
 CLAY
-And if Gary comes, you can talk his ear off about fantasy football, pal.
+And if they send Gary, you can talk his ear off about fantasy football, pal.
 
 INT. INTERROGATION ROOM - EVENING
 
@@ -949,10 +970,16 @@ MARY
 Don't make me launch an investigation, Clay. We work ... reasonably well together.
 
 CLAY
-She might as well be an imaginary girlfriend. I just ... she's beautiful and I don't think things were her fault--
+Look, there was no impropriety. I mean, I'm in love with her, but I've never met her.
 
 MARY
-She was an Al-Queda operative. I doesn't matter if she just took their lunch orders.
+What?
+
+CLAY
+I'll never make contact with her, I swear. It's just nice to imagine being married to her. Raising some kids. Boy and a girl, maybe.
+
+MARY
+Stop, stop right now. If you say another stupid thing I'm going to have to turn you in.
 
 CLAY
 You yourself were complaining the other day about how difficult it is to have a relationship with this job. She's all I can -- could handle.
@@ -1025,42 +1052,81 @@ CONGRESSMAN KANE (CONT'D)
 Come to think of it Alan, you probably shouldn't have heard that whole thing about the first stages of a year-long sting. Might be best if you kept your head down for a little while longer.
 
 Alan's face falls.
+Kane puts on his "connecting with voters" face.
 
-INT. COMMON ROOM - EVENING
+CONGRESSMAN KANE (CONT'D)
+Alan, my heart breaks for you.
 
-Mary, Clay, Helen, and Alan are joined by every person who has dealt with Alan's case so far. Unfortunately for Alan, they're here for a fantasy football draft.
-Everyone but Mary sits in a circle, working off of their laptops. Mary sits to the side finishing up some work.
-Helen's Drone keeps track of whose turn it is. Alan is on the clock. The Drone lights up and HOVERS over Alan.
+INT. CONFERENCE ROOM - EVENING
+
+Mary, Clay, and Helen are joined by every NSA person who has dealt with Alan's case so far. Unfortunately for Alan, they're here for a fantasy football draft.
+Everyone but Mary clumps at one end of the table, working off of their laptops. Mary sits at the other end finishing up some work.
+Alan, via teleconference feed on a laptop is on the clock.
 
 ALAN
 I'll take Alshon Jeffrey.
 
-GARY
-Nice pick Ivan. Drop a player for the kicker once you get the lay of the land. This guy's a pro.
+SECTION HEAD 2
+Nice pick, Alan. Drop a player for the kicker once you get the lay of the land. This guy's a pro.
 
 ALAN
-Thank you.
-
-CONGRESSMAN KANE
-Alan, you are a damn nice guy. I look forward to catching up with you next time a snafu brings me down here.
-
-MARY
-Okay everybody, it's getting late, and I can't leave until you do. Let's pack it in. Alan isn't going anywhere. Pop by and see him whenever you want. 
+Thank you. This would be a lot easier if I could be in the room with all of you.
 
 CLAY
-Thanks for making the trek down here everybody.
+Alan, come on. If you're out of the clubhouse-
+
+ALAN
+Holding cell.
+
+CLAY
+Exactly. If you're out, then I'm on the clock. If I'm on the clock I can't play fantasy football.
+
+ALAN
+Well, I wouldn't want to inconvenience you.
+
+SECTION HEAD 1
+Don't be selfish, Al. Let's just have fun now.
+
+CLAY
+You know what, that was the last pick and it's getting pretty late. Want to head out and wrap up trades tomorrow?
+
+ALAN
+Is everyone leaving?
+
+Section Head 2 mutes the teleconference section.
+
+SECTION HEAD 1
+Thanks, he was really bringing down the room.
+
+Their mic isn't muted, so Alan can be seen reacting to that.
 
 The visitors stand up and work their way to the exit.
 
-SECTION HEAD 1
-See you Alan.
-
-SECTION HEAD 2
-Catch you later Alan.
-
 The group files out. Mary, Clay, and Helen exit. 
-PULL BACK TO REVEAL: Alan is in a cage. This isn't a common room, it's a detention cell. 
-The light TURNS OFF. Alan cast into darkness.
+
+INT. DETENTION ROOM - NIGHT
+
+Mary, Clay, and Helen enter the detention room with Alan.
+
+MARY
+Good night, Alan. We'll see you tomorrow.
+
+CLAY
+Check you later, whiz kid.
+
+Helen stares at Alan.
+
+ALAN
+Can I call and tell someone where I am?
+
+MARY
+No.
+
+ALAN
+Oh.
+
+Mary, Clay, and Helen exit.
+The light TURNS OFF. Alan is cast into darkness.
 
 HELEN (O.S.)
 Oh, wait!
@@ -1068,7 +1134,7 @@ Oh, wait!
 Helen re-enters and turns the light back on. We see a glimmer of hope in Alan's eyes.
 
 HELEN (CONT'D)
-Goodnight Scout. Don't tell anyone I named you.
+Goodnight, Scout. Don't tell anyone I named you.
 
 Helen exits for good this time. She leaves Alan in darkness.
 A SOFT SOB in a darkened room.
